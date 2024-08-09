@@ -11,12 +11,7 @@
     <img src="https://img.shields.io/badge/React Responsive Carousel-FFFFFF?style=for-the-badge&logo=react-responsive-carousel&logoColor=000000" alt="React Responsive Carousel" />
 </p>
 
-<p align="center"> 
-    <br />&#10023;
-    <a href="#Quick-Start">Quick Start</a>   &#10023;    
-    <a href="https://github.com/Sampath1610/Booking-a-table-on-the-Little-Lemon-website.git">Report Bug</a>   &#10023;
-    <a href="#Contact">Author</a>&#10023;
-  </p>
+
   
   <h3 align="center"><a href="https://little-lemon-restaurant-sumit-sharma-02.vercel.app/"><strong>« Try the demo here »</strong></a></h3>
 
