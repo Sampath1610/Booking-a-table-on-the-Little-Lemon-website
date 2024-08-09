@@ -14,7 +14,7 @@
 <p align="center"> 
     <br />&#10023;
     <a href="#Quick-Start">Quick Start</a>   &#10023;    
-    <a href="https://github.com/sumit-sharma-02/little-lemon-restaurant/issues">Report Bug</a>   &#10023;
+    <a href="https://github.com/Sampath1610/Booking-a-table-on-the-Little-Lemon-website.git">Report Bug</a>   &#10023;
     <a href="#Contact">Author</a>&#10023;
   </p>
   
@@ -54,7 +54,7 @@
 ## Quick Start
 
 ```shell
-$ git clone https://github.com/sumit-sharma-02/little-lemon-restaurant.git
+https://github.com/Sampath1610/Booking-a-table-on-the-Little-Lemon-website.git
 $ cd little-lemon-restaurant
 $ npm install
 ```
@@ -67,13 +67,3 @@ Use the following command to run the app in your localhost.
 npm start
 ```
 
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Sumit_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitsharma002/)
-[![Github](https://img.shields.io/badge/Sumit_Sharma-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sumit-sharma-02/)
-
-## Show your support
-
-Give it a ⭐️ if you like it.
