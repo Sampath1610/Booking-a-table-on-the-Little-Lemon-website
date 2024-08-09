@@ -50,7 +50,7 @@
 
 ```shell
 https://github.com/Sampath1610/Booking-a-table-on-the-Little-Lemon-website.git
-$ cd little-lemon-restaurant
+$ cd Booking-a-table-on-the-Little-Lemon-website
 $ npm install
 ```
 
